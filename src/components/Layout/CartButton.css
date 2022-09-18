@@ -1,0 +1,31 @@
+.btn{
+    width:15rem;
+    height: 40px;
+    padding: 3px;
+    border-radius: 5rem;
+    color:aliceblue;
+    background-color:#ab3154;
+    border-color: rgb(230, 230, 17);
+    font-weight: italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing:.2rem;
+}
+
+.btn-1{
+    border-radius: 1rem;
+    background-color:rosybrown;
+    /* left:10px; */
+    width:30px;
+    border-style: none;
+    padding: 2px;
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow';
+    font-size: 14px;
+    
+}
+
+#img{
+    padding: 2rem;
+}
